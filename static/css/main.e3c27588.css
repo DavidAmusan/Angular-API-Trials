@@ -1,0 +1,2 @@
+body{font-family:sans-serif;margin:0;padding:0}.App{align-items:center;animation:gradient 15s ease infinite;background:linear-gradient(45deg,red,#ff7f00,#ff0,#0f0,#00f,indigo,#8f00ff);background-size:400% 400%;display:flex;justify-content:center;min-height:100vh;text-align:center}.heading{color:#fff;font-family:Playfair Display,Poppins,serif;font-size:4rem;font-weight:700;opacity:70%}@keyframes gradient{0%{background-position:0 50%}50%{background-position:100% 50%}to{background-position:0 50%}}
+/*# sourceMappingURL=main.e3c27588.css.map*/

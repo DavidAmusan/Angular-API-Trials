@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tamiloresmessage/static/css/main.e3c27588.css",
+    "main.js": "/tamiloresmessage/static/js/main.65a28936.js",
+    "index.html": "/tamiloresmessage/index.html",
+    "main.e3c27588.css.map": "/tamiloresmessage/static/css/main.e3c27588.css.map",
+    "main.65a28936.js.map": "/tamiloresmessage/static/js/main.65a28936.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3c27588.css",
+    "static/js/main.65a28936.js"
+  ]
+}
